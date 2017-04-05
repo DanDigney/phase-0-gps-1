@@ -4,7 +4,7 @@
 
 ```
 def function(param)
-  things
+	do some things
 end
 ```
 
